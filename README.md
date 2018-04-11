@@ -8,9 +8,9 @@ Instead of just learning a function representing the data ( a compressed represe
 
 Summary(Structure) of variational autoencoder:
 __________________________________________________________________________________
-Layer (type)                    Output Shape         Param #     Connected to                     
+Layer (type)                    Output Shape         Param #     Connected to                     
 ==================================================================================================
-input_3 (InputLayer)            (None, 784)          0                                            
+input_3 (InputLayer)            (None, 784)          0                                            
 __________________________________________________________________________________________________
 dense_6 (Dense)                 (None, 256)          200960      input_3[0][0]                    
 __________________________________________________________________________________________________
