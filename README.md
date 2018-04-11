@@ -10,7 +10,7 @@ Summary(Structure) of variational autoencoder:
 _____________________________________________
 Layer (type)                    Output Shape         
 =============================================
-input_3 (InputLayer)            (None, 784)                                              
+input_3 (InputLayer)            (None, 784)                                              
 _____________________________________________
 dense_6 (Dense)                 (None, 256)                      
 _____________________________________________
