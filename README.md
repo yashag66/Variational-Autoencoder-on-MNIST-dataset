@@ -29,8 +29,8 @@ Decoder
 
 dense_9 (Dense)                             
 _______________________
-dense_10 (Dense)                             
-=======================
+dense_10(Dense)        
+_______________________
 
 Great resource for further understanding: 
 Reference: https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
